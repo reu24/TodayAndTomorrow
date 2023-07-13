@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ccc",
+    "hoh",
+    "ccc"
+  ],
+  "key": {
+    "c": {
+      "item": "minecraft:cobblestone"
+    },
+    "h": {
+      "item": "tat:hydrogen_bucket"
+    },
+    "o": {
+      "item": "tat:oxygen_bucket"
+    }
+  },
+  "result": {
+    "item": "tat:explosive_container"
+  }
+}

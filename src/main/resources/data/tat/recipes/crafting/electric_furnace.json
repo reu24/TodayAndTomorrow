@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "rrr",
+    "ifi",
+    "iii"
+  ],
+  "key": {
+    "f": {
+      "item": "minecraft:blast_furnace"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "r": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "tat:electric_furnace"
+  }
+}

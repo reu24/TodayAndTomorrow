@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "uuu",
+    "uuu",
+    "uuu"
+  ],
+  "key": {
+    "u": {
+      "item": "tat:enriched_uranium_shard"
+    }
+  },
+  "result": {
+    "item": "tat:enriched_uranium",
+    "count": 1
+  }
+}

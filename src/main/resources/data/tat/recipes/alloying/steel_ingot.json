@@ -1,0 +1,14 @@
+{
+  "type": "tat:alloy",
+  "output": {
+    "item": "tat:steel_ingot"
+  },
+  "input": [
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "tag": "minecraft:coals"
+    }
+  ]
+}

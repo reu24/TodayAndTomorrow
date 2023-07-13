@@ -1,0 +1,16 @@
+{
+  "ambientocclusion": false,
+  "textures": {
+    "texture": "tat:block/steel_pipe",
+    "inside": "tat:block/steel_pipe",
+    "particle": "tat:block/steel_pipe"
+  },
+  "elements": [
+    {   "from": [ 5, 5, 5 ],
+      "to": [ 11, 11, 12 ],
+      "faces": {
+        "north": { "texture": "#inside" }
+      }
+    }
+  ]
+}

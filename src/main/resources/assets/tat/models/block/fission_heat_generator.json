@@ -1,0 +1,8 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "tat:block/fission_heat_generator_top",
+    "front": "tat:block/machine_side",
+    "side": "tat:block/machine_side"
+  }
+}

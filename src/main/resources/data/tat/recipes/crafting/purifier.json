@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "bbb",
+    "cfc",
+    "bbb"
+  ],
+  "key": {
+    "f": {
+      "item": "minecraft:blast_furnace"
+    },
+    "b": {
+      "tag": "forge:blocks/steel"
+    },
+    "c": {
+      "tag": "forge:ingots/copper"
+    }
+  },
+  "result": {
+    "item": "tat:purifier"
+  }
+}

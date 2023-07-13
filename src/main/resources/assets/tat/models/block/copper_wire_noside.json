@@ -1,0 +1,16 @@
+{
+  "ambientocclusion": false,
+  "textures": {
+    "texture": "tat:block/copper_wire",
+    "inside": "tat:block/copper_wire",
+    "particle": "tat:block/copper_wire"
+  },
+  "elements": [
+    {   "from": [ 5, 5, 5 ],
+      "to": [ 11, 11, 12 ],
+      "faces": {
+        "north": { "texture": "#inside" }
+      }
+    }
+  ]
+}

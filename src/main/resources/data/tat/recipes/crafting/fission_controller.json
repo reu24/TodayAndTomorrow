@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "bbb",
+    "fff",
+    "bbb"
+  ],
+  "key": {
+    "f": {
+      "item": "minecraft:blast_furnace"
+    },
+    "b": {
+      "tag": "forge:blocks/steel"
+    }
+  },
+  "result": {
+    "item": "tat:alloy_furnace"
+  }
+}

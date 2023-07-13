@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ccc",
+    "ifi",
+    "iii"
+  ],
+  "key": {
+    "f": {
+      "item": "minecraft:blast_furnace"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "c": {
+      "tag": "forge:ingots/copper"
+    }
+  },
+  "result": {
+    "item": "tat:coal_generator"
+  }
+}

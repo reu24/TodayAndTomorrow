@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "srs",
+    "pep",
+    "sss"
+  ],
+  "key": {
+    "s": {
+      "tag": "forge:ingots/steel"
+    },
+    "r": {
+      "item": "minecraft:redstone"
+    },
+    "p": {
+      "item": "tat:steel_pipe"
+    },
+    "e": {
+      "item": "tat:electric_furnace"
+    }
+  },
+  "result": {
+    "item": "tat:electrolysis_machine"
+  }
+}

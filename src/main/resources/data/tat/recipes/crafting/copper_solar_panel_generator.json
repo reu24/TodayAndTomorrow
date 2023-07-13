@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ddd",
+    "crc",
+    "ccc"
+  ],
+  "key": {
+    "d": {
+      "item": "minecraft:daylight_detector"
+    },
+    "c": {
+      "tag": "forge:ingots/copper"
+    },
+    "r": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "tat:copper_solar_panel_generator"
+  }
+}

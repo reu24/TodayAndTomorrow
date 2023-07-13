@@ -1,0 +1,7 @@
+{
+  "parent": "block/orientable_vertical",
+  "textures": {
+    "front": "tat:block/copper_laser_transmitter_front",
+    "side": "tat:block/machine_top"
+  }
+}

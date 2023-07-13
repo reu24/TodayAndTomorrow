@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ppp",
+    "psp",
+    "ppp"
+  ],
+  "key": {
+    "p": {
+      "item": "tat:copper_solar_panel_generator"
+    },
+    "s": {
+      "tag": "forge:ingots/steel"
+    }
+  },
+  "result": {
+    "item": "tat:steel_solar_panel_generator"
+  }
+}

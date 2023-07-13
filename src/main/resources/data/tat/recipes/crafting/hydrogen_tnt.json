@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "cdc",
+    "cec",
+    "ccc"
+  ],
+  "key": {
+    "c": {
+      "item": "minecraft:cobblestone"
+    },
+    "d": {
+      "item": "minecraft:dried_kelp"
+    },
+    "e": {
+      "item": "tat:explosive_container"
+    }
+  },
+  "result": {
+    "item": "tat:hydrogen_tnt"
+  }
+}

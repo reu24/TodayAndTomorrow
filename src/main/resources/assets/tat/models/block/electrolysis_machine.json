@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "tat:block/machine_top",
+    "down": "tat:block/machine_top",
+    "up": "tat:block/machine_top",
+    "north": "tat:block/electrolysis_machine_front",
+    "east": "tat:block/electrolysis_machine_right",
+    "south": "tat:block/machine_side",
+    "west": "tat:block/electrolysis_machine_left"
+  }
+}

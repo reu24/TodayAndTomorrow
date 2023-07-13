@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "sss",
+    "   ",
+    "sss"
+  ],
+  "key": {
+    "s": {
+      "tag": "forge:ingots/steel"
+    }
+  },
+  "result": {
+    "item": "tat:steel_pipe",
+    "count": 8
+  }
+}

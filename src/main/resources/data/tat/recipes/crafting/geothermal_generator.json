@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "crc",
+    "sfs",
+    "sss"
+  ],
+  "key": {
+    "f": {
+      "item": "minecraft:blast_furnace"
+    },
+    "s": {
+      "tag": "forge:ingots/steel"
+    },
+    "c": {
+      "tag": "forge:ingots/copper"
+    },
+    "r": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "tat:geothermal_generator"
+  }
+}

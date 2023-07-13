@@ -1,0 +1,11 @@
+{
+  "type": "tat:purifier",
+  "output": {
+    "item": "tat:enriched_uranium_shard"
+  },
+  "input": [
+    {
+      "tag": "forge:ingots/uranium"
+    }
+  ]
+}

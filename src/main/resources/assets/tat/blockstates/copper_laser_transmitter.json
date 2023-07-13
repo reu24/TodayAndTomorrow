@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "facing=north":  { "model": "tat:block/copper_laser_transmitter" },
+    "facing=east":   { "model": "tat:block/copper_laser_transmitter", "y": 90 },
+    "facing=south":   { "model": "tat:block/copper_laser_transmitter", "y": 180 },
+    "facing=west":   { "model": "tat:block/copper_laser_transmitter", "y": 270 },
+    "facing=down":  { "model": "tat:block/copper_laser_transmitter_vertical", "x": 180 },
+    "facing=up":    { "model": "tat:block/copper_laser_transmitter_vertical" }
+  }
+}

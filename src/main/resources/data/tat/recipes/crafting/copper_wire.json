@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ccc",
+    "   ",
+    "ccc"
+  ],
+  "key": {
+    "c": {
+      "tag": "forge:ingots/copper"
+    }
+  },
+  "result": {
+    "item": "tat:copper_wire",
+    "count": 8
+  }
+}

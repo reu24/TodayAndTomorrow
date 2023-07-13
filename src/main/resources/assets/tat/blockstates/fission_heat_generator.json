@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north":  { "model": "tat:block/fission_heat_generator" },
+    "facing=east":   { "model": "tat:block/fission_heat_generator", "y": 90 },
+    "facing=south":   { "model": "tat:block/fission_heat_generator", "y": 180 },
+    "facing=west":   { "model": "tat:block/fission_heat_generator", "y": 270 }
+  }
+}
